@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1517347955 source:c:\users\angeluta\desktop\projects\c++\aagnid2\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<iomanip>
+	<time.h>
+
